@@ -1,0 +1,9 @@
+counter.txt;filename
+counter;counter_description
+home;count_up_key
+end;count_down_key
+r;reset_key
+f5;refresh_keyq
+h;help_key
+enter;return_key
+q;quit_key
